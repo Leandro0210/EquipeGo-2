@@ -1,0 +1,7 @@
+# Salidas generadas en Colab (no subir binarios ni mediciones temporales)
+eta_benchmark
+*.o
+*.out
+__pycache__/
+.ipynb_checkpoints/
+resultados/*.csv
